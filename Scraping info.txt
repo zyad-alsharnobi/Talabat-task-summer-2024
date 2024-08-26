@@ -1,0 +1,6 @@
+I've used an online tool (extension) to scrap data from google maps.
+its simple just search the query you want and it will scrap the data to a csv file automatically.
+i wanted to use google maps API but it wasn't free.
+
+the tool name:
+Instant Data Scraper
